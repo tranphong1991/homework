@@ -39,7 +39,7 @@ public class Calculette extends JFrame implements Observer{
 	
 	public Calculette(AbstractControler controler){
 		this.setSize(240, 260);
-	    this.setTitle("Calculette");
+	    this.setTitle("Calculette2");
 	    this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	    this.setLocationRelativeTo(null);
 	    this.setResizable(false);
